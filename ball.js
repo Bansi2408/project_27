@@ -1,0 +1,10 @@
+class ball{
+    constructor(){
+        
+    }
+
+    display(){
+        
+    }
+    
+}
